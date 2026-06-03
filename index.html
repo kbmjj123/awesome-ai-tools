@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>awesome-ai-tools · Maintained by aifindr.org</title>
+  <meta name="description" content="A curated, open-source list of the best AI tools across 12 categories. Maintained by aifindr.org. Submit your tool, get free dofollow backlinks." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #09090b;
+      --surface: #111113;
+      --border: #1f1f23;
+      --border-bright: #2e2e34;
+      --text: #e4e4e7;
+      --muted: #71717a;
+      --accent: #a3e635;
+      --accent-dim: #4d7c0f;
+      --accent-glow: rgba(163, 230, 53, 0.12);
+      --red: #f87171;
+      --blue: #60a5fa;
+      --purple: #c084fc;
+      --orange: #fb923c;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 300;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* grid background */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(var(--border) 1px, transparent 1px),
+        linear-gradient(90deg, var(--border) 1px, transparent 1px);
+      background-size: 48px 48px;
+      opacity: 0.4;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 24px;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* NAV */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      border-bottom: 1px solid var(--border);
+      background: rgba(9,9,11,0.85);
+      backdrop-filter: blur(12px);
+    }
+
+    .nav-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 24px;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 15px;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .nav-logo span {
+      color: var(--muted);
+      font-weight: 400;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 4px;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 12px;
+      border-radius: 6px;
+      transition: all 0.15s;
+      font-family: 'DM Mono', monospace;
+    }
+
+    .nav-links a:hover {
+      color: var(--text);
+      background: var(--surface);
+    }
+
+    .nav-links a.cta {
+      background: var(--accent);
+      color: #000;
+      font-weight: 500;
+    }
+
+    .nav-links a.cta:hover {
+      background: #bef264;
+    }
+
+    /* HERO */
+    .hero {
+      padding: 96px 0 80px;
+      text-align: center;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--accent);
+      background: var(--accent-glow);
+      border: 1px solid var(--accent-dim);
+      padding: 4px 12px;
+      border-radius: 999px;
+      margin-bottom: 32px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .hero-badge::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      background: var(--accent);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    h1 {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: clamp(42px, 7vw, 72px);
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+      margin-bottom: 20px;
+    }
+
+    h1 em {
+      font-style: normal;
+      color: var(--accent);
+    }
+
+    .hero-sub {
+      font-size: 17px;
+      color: var(--muted);
+      max-width: 520px;
+      margin: 0 auto 40px;
+      line-height: 1.7;
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 11px 22px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: all 0.15s;
+      cursor: pointer;
+      border: none;
+      font-family: 'DM Sans', sans-serif;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #000;
+    }
+
+    .btn-primary:hover {
+      background: #bef264;
+      transform: translateY(-1px);
+    }
+
+    .btn-secondary {
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border-bright);
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--muted);
+      transform: translateY(-1px);
+    }
+
+    /* STATS */
+    .stats-bar {
+      margin: 64px 0;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: var(--border);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .stat {
+      background: var(--surface);
+      padding: 28px 24px;
+      text-align: center;
+    }
+
+    .stat-value {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      color: var(--text);
+      letter-spacing: -0.03em;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .stat-value span {
+      color: var(--accent);
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--muted);
+      font-family: 'DM Mono', monospace;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    /* BACKLINKS SECTION */
+    .section {
+      margin: 80px 0;
+    }
+
+    .section-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 16px;
+    }
+
+    h2 {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: clamp(24px, 4vw, 36px);
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+    }
+
+    .section-desc {
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 40px;
+      max-width: 560px;
+    }
+
+    .backlinks-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .backlink-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .backlink-card:hover {
+      border-color: var(--border-bright);
+    }
+
+    .backlink-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+    }
+
+    .backlink-card:nth-child(1)::before { background: var(--accent); }
+    .backlink-card:nth-child(2)::before { background: var(--blue); }
+    .backlink-card:nth-child(3)::before { background: var(--purple); }
+
+    .backlink-num {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 12px;
+    }
+
+    .backlink-title {
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--accent);
+      margin-bottom: 8px;
+      word-break: break-all;
+    }
+
+    .backlink-card:nth-child(2) .backlink-title { color: var(--blue); }
+    .backlink-card:nth-child(3) .backlink-title { color: var(--purple); }
+
+    .backlink-desc {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .backlink-da {
+      display: inline-block;
+      margin-top: 12px;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent-dim);
+    }
+
+    .backlink-card:nth-child(2) .backlink-da {
+      background: rgba(96, 165, 250, 0.1);
+      color: var(--blue);
+      border-color: rgba(96, 165, 250, 0.2);
+    }
+
+    .backlink-card:nth-child(3) .backlink-da {
+      background: rgba(192, 132, 252, 0.1);
+      color: var(--purple);
+      border-color: rgba(192, 132, 252, 0.2);
+    }
+
+    /* HOW TO SUBMIT */
+    .steps {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .step {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 20px;
+      align-items: start;
+      padding: 24px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .step:last-child {
+      border-bottom: none;
+    }
+
+    .step-num {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 28px;
+      color: var(--border-bright);
+      line-height: 1;
+      padding-top: 2px;
+    }
+
+    .step-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      margin-bottom: 6px;
+    }
+
+    .step-desc {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    .code-block {
+      margin-top: 12px;
+      background: #000;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: var(--accent);
+      overflow-x: auto;
+      line-height: 1.7;
+    }
+
+    .code-block .comment { color: var(--muted); }
+    .code-block .key { color: var(--blue); }
+    .code-block .val { color: var(--orange); }
+
+    /* CATEGORIES */
+    .categories-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .cat-tag {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--muted);
+      transition: all 0.15s;
+    }
+
+    .cat-tag:hover {
+      border-color: var(--border-bright);
+      color: var(--text);
+    }
+
+    .cat-icon { font-size: 15px; }
+
+    /* CONTRIBUTORS */
+    .contrib-note {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 32px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 24px;
+      align-items: center;
+    }
+
+    .contrib-note h3 {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      margin-bottom: 8px;
+    }
+
+    .contrib-note p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 40px 0;
+      margin-top: 96px;
+    }
+
+    .footer-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .footer-brand {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .footer-brand a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 20px;
+    }
+
+    .footer-links a {
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .footer-links a:hover { color: var(--text); }
+
+    @media (max-width: 640px) {
+      .stats-bar { grid-template-columns: repeat(2, 1fr); }
+      .backlinks-grid { grid-template-columns: 1fr; }
+      .categories-grid { grid-template-columns: repeat(2, 1fr); }
+      .contrib-note { grid-template-columns: 1fr; }
+      .nav-links a.cta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="https://aifindr.org" class="nav-logo">
+      awesome-ai-tools <span>by aifindr.org</span>
+    </a>
+    <div class="nav-links">
+      <a href="#submit">Submit</a>
+      <a href="#backlinks">Backlinks</a>
+      <a href="https://github.com/kbmjj123/aifindr.org" target="_blank">GitHub</a>
+      <a href="https://aifindr.org/submit" class="cta">Submit a Tool →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-badge">Open Source · Community Driven</div>
+    <h1>The <em>Awesome</em><br/>AI Tools List</h1>
+    <p class="hero-sub">
+      A curated, open-source directory of the best AI tools across 12 categories.
+      Submit your tool, get 3 free dofollow backlinks from high-authority sources.
+    </p>
+    <div class="hero-actions">
+      <a href="https://aifindr.org/submit" class="btn btn-primary">
+        ↗ Submit Your Tool
+      </a>
+      <a href="https://github.com/kbmjj123/aifindr.org" class="btn btn-secondary" target="_blank">
+        ★ Star on GitHub
+      </a>
+      <a href="https://aifindr.org/tools" class="btn btn-secondary">
+        Browse All Tools
+      </a>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <div class="stats-bar" id="stats">
+    <div class="stat">
+      <span class="stat-value" id="stat-tools">0<span>+</span></span>
+      <span class="stat-label">Tools Listed</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value">12</span>
+      <span class="stat-label">Categories</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="stat-contributors">0</span>
+      <span class="stat-label">Contributors</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value">3</span>
+      <span class="stat-label">Free Backlinks</span>
+    </div>
+  </div>
+
+  <!-- BACKLINKS -->
+  <section class="section" id="backlinks">
+    <div class="section-label">Why Submit</div>
+    <h2>3 Free Dofollow Backlinks</h2>
+    <p class="section-desc">
+      Every approved tool submission earns 3 permanent dofollow backlinks from high-authority sources — automatically.
+    </p>
+    <div class="backlinks-grid">
+      <div class="backlink-card">
+        <div class="backlink-num">01</div>
+        <div class="backlink-title">github.com/kbmjj123/aifindr.org</div>
+        <p class="backlink-desc">Your tool's Markdown file lives directly on GitHub. The highest-authority backlink source available.</p>
+        <span class="backlink-da">DA 100</span>
+      </div>
+      <div class="backlink-card">
+        <div class="backlink-num">02</div>
+        <div class="backlink-title">aifindr.org/tools/[category]/[tool]</div>
+        <p class="backlink-desc">A dedicated detail page on aifindr.org with your tool's full description, tags, and website link.</p>
+        <span class="backlink-da">DA Growing</span>
+      </div>
+      <div class="backlink-card">
+        <div class="backlink-num">03</div>
+        <div class="backlink-title">aifindr.org/contributors/[you]</div>
+        <p class="backlink-desc">A personal contributor profile page listing all tools you've submitted, with your website linked.</p>
+        <span class="backlink-da">Grows with contributions</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW TO SUBMIT -->
+  <section class="section" id="submit">
+    <div class="section-label">How to Submit</div>
+    <h2>Two Ways to Submit</h2>
+    <p class="section-desc">Choose the method that works best for you.</p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">A</div>
+        <div>
+          <div class="step-title">Submit via Online Form</div>
+          <p class="step-desc">The easiest way. Fill out the form at aifindr.org/submit and your tool will be reviewed and added within 48 hours.</p>
+          <a href="https://aifindr.org/submit" class="btn btn-primary" style="margin-top:16px; display:inline-flex;">
+            Open Submission Form →
+          </a>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">B</div>
+        <div>
+          <div class="step-title">Submit via GitHub Pull Request</div>
+          <p class="step-desc">Fork the repo, add your tool's Markdown file to the correct category folder, and open a PR. Faster review for contributors.</p>
+          <div class="code-block">
+<span class="comment"># 1. Fork and clone the repo</span>
+git clone https://github.com/kbmjj123/aifindr.org
+
+<span class="comment"># 2. Create your tool file</span>
+<span class="comment"># Path: content/tools/[category]/[tool-name].md</span>
+
+<span class="comment"># 3. Fill in the frontmatter</span>
+<span class="key">name</span>: <span class="val">Your Tool Name</span>
+<span class="key">website</span>: <span class="val">https://yourtool.com</span>
+<span class="key">category</span>: <span class="val">image</span>
+<span class="key">description</span>: <span class="val">One sentence, under 15 words.</span>
+<span class="key">tags</span>: <span class="val">[free, no-watermark, open-source]</span>
+<span class="key">pricing</span>: <span class="val">freemium</span>
+<span class="key">submitter_site</span>: <span class="val">https://yoursite.com</span>
+
+<span class="comment"># 4. Open a Pull Request</span>
+<span class="comment"># Title: Add [Tool Name] to [Category]</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section class="section">
+    <div class="section-label">Coverage</div>
+    <h2>12 Categories</h2>
+    <p class="section-desc">Find the right category for your tool.</p>
+    <div class="categories-grid">
+      <div class="cat-tag"><span class="cat-icon">🖼️</span> Image & Design</div>
+      <div class="cat-tag"><span class="cat-icon">✍️</span> Writing & Content</div>
+      <div class="cat-tag"><span class="cat-icon">🎬</span> Video & Animation</div>
+      <div class="cat-tag"><span class="cat-icon">🎵</span> Audio & Music</div>
+      <div class="cat-tag"><span class="cat-icon">💻</span> Code & Developer</div>
+      <div class="cat-tag"><span class="cat-icon">⚡</span> Productivity</div>
+      <div class="cat-tag"><span class="cat-icon">📈</span> Marketing & SEO</div>
+      <div class="cat-tag"><span class="cat-icon">📊</span> Data & Analytics</div>
+      <div class="cat-tag"><span class="cat-icon">📚</span> Education & Learning</div>
+      <div class="cat-tag"><span class="cat-icon">💼</span> Business & Finance</div>
+      <div class="cat-tag"><span class="cat-icon">🔬</span> Research & Search</div>
+      <div class="cat-tag"><span class="cat-icon">···</span> Other</div>
+    </div>
+  </section>
+
+  <!-- CONTRIBUTORS -->
+  <section class="section">
+    <div class="section-label">Community</div>
+    <h2>Your Contributor Profile</h2>
+    <p class="section-desc">Every contributor gets a dedicated profile page that grows in value with each tool submitted.</p>
+    <div class="contrib-note">
+      <div>
+        <h3>aifindr.org/contributors/you</h3>
+        <p>
+          Your contributor page lists every tool you've submitted, your GitHub profile,
+          and a dofollow link to your website. The more you contribute,
+          the richer your profile becomes — and the more SEO value it passes.
+        </p>
+      </div>
+      <a href="https://aifindr.org/contributors" class="btn btn-secondary">
+        View Contributors
+      </a>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      Maintained by <a href="https://aifindr.org" target="_blank">aifindr.org</a> ·
+      Open Source on <a href="https://github.com/kbmjj123/aifindr.org" target="_blank">GitHub</a>
+    </div>
+    <div class="footer-links">
+      <a href="https://aifindr.org/tools">Browse Tools</a>
+      <a href="https://aifindr.org/submit">Submit</a>
+      <a href="https://aifindr.org/contributors">Contributors</a>
+      <a href="https://aifindr.org/blog">Blog</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Animate stat counters
+  function animateCount(el, target, suffix = '') {
+    let start = 0;
+    const duration = 1200;
+    const step = (timestamp) => {
+      if (!start) start = timestamp;
+      const progress = Math.min((timestamp - start) / duration, 1);
+      const ease = 1 - Math.pow(1 - progress, 3);
+      el.innerHTML = Math.floor(ease * target) + suffix;
+      if (progress < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  }
+
+  // Trigger on scroll into view
+  const statsBar = document.getElementById('stats');
+  let animated = false;
+  const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting && !animated) {
+      animated = true;
+      animateCount(document.getElementById('stat-tools'), 500, '+');
+      animateCount(document.getElementById('stat-contributors'), 0);
+    }
+  }, { threshold: 0.3 });
+  observer.observe(statsBar);
+</script>
+
+</body>
+</html>
