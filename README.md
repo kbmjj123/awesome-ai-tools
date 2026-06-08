@@ -556,6 +556,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Zoho Invoice AI](https://zoho.com/invoice) - Free AI invoice generator with payment tracking.
 - [Invoice Ninja AI](https://invoiceninja.com) - Free open-source AI invoice generator. Self-hostable.
 - [Finta](https://trustfinta.com) - AI financial analysis and fundraising tool for startups. Free plan available.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - AI agent trust scoring for Solana wallets. Verify agent identity before x402 USDC micropayments. Free MCP server: score_agent, preflight_check tools. `#agents` `#solana` `#mcp`
 
 ### Pitch & Presentations
 - [Gamma](https://gamma.app) - AI pitch deck and presentation generator from text. Free plan available.
