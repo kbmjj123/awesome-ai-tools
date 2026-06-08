@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Awesome AI Tools ](#awesome-ai-tools-)
+- [Awesome AI Tools ](#awesome-ai-tools)
 	- [Contents](#contents)
 	- [Image \& Design](#image--design)
 		- [Image Generation](#image-generation)
@@ -131,7 +131,46 @@
 
 ## Video & Animation
 
-> AI tools for video generation, editing, subtitles, and animation.
+> AI tools for video generation, editing, enhancement, avatar creation, and subtitles.
+
+### Video Generation
+- [Runway](https://runwayml.com) - AI text to video and image to video generator. Free plan with 125 credits.
+- [Kling AI](https://klingai.com) - AI text to video generator by Kuaishou. Free plan with daily credits.
+- [Hailuo AI](https://hailuoai.com) - AI video generator with realistic motion. Free plan available.
+- [Pika](https://pika.art) - AI text to video and image to video generator. Free plan available.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI video generator producing smooth realistic videos. Free plan available.
+- [Invideo AI](https://invideo.ai) - AI video generator from text scripts. Free plan available.
+
+### Video Editing
+- [Descript](https://descript.com) - AI video editor that edits video by editing text. Free plan available.
+- [Kapwing](https://kapwing.com) - Online AI video editor with subtitles and auto-editing. Free plan available.
+- [Veed.io](https://veed.io) - AI video editor with subtitles, translation, and screen recording. Free plan available.
+- [OpusClip](https://opus.pro) - AI tool that clips long videos into viral shorts automatically. Free plan available.
+- [Submagic](https://submagic.co) - AI video editor for short-form content and auto-captions. Free plan available.
+
+### Video Enhancement
+- [Topaz Video AI](https://topazlabs.com/video-ai) - AI video enhancer and upscaler supporting up to 8K output.
+- [Clideo](https://clideo.com) - Online AI video enhancer with quality improvement tools. Free plan available.
+- [Pixop](https://pixop.com) - Cloud-based AI video enhancement platform. Pay-per-use pricing.
+
+### Avatar & Talking Head
+- [HeyGen](https://heygen.com) - AI avatar video generator with 100+ realistic avatars. Free plan available.
+- [Synthesia](https://synthesia.io) - AI talking head video generator with 140+ avatars. Free plan available.
+- [D-ID](https://d-id.com) - AI avatar and talking head video generator. Free plan with 5 videos/month.
+- [Colossyan](https://colossyan.com) - AI avatar video generator for workplace learning. Free trial available.
+- [Elai.io](https://elai.io) - AI video generator with custom avatars from photos. Free trial available.
+
+### Subtitles & Captions
+- [Captions.ai](https://captions.ai) - AI subtitle generator for social media videos. Free plan available.
+- [Whisper](https://github.com/openai/whisper) - Open-source AI subtitle generator by OpenAI. Free, runs locally.
+- [Kapwing Subtitles](https://kapwing.com/subtitles) - Free AI subtitle generator, no signup required for basic use.
+- [Maestra](https://maestra.ai) - AI subtitle generator supporting 80+ languages. Free trial available.
+
+### Animation
+- [Animaker](https://animaker.com) - AI animation video maker for explainer videos. Free plan available.
+- [Powtoon](https://powtoon.com) - AI animated video and presentation maker. Free plan available.
+- [Renderforest](https://renderforest.com) - AI animation and video maker with 1000+ templates. Free plan available.
+- [Genmo](https://genmo.ai) - AI animation generator from text and images. Free plan available.
 
 <!-- tools will be added here -->
 
@@ -173,49 +212,423 @@
 
 ## Code & Developer
 
-> AI tools for coding assistance, code review, documentation, and developer productivity.
+> AI tools for coding assistance, code review, SQL generation, testing, and documentation.
+
+### AI Coding Assistants
+- [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant by GitHub. Free for students and open-source contributors.
+- [Cursor](https://cursor.sh) - AI code editor built on VS Code with codebase-aware chat. Free plan available.
+- [Codeium](https://codeium.com) - Free AI coding assistant supporting 70+ languages. No credit card required.
+- [Tabnine](https://tabnine.com) - AI code completion with privacy-first local model option. Free plan available.
+- [Continue](https://continue.dev) - Open-source AI coding assistant for VS Code and JetBrains. Free, self-hostable.
+- [Supermaven](https://supermaven.com) - AI code completion with 300K token context window. Free plan available.
+
+### Code Generation
+- [Replit AI](https://replit.com) - AI code generator with built-in browser IDE. Free plan available.
+- [DeepSeek Coder](https://deepseek.com) - Open-source AI coding model with strong benchmark scores. Free to use.
+- [Qwen Coder](https://qwenlm.github.io) - Open-source AI code generation model by Alibaba. Free to use.
+
+### Code Review
+- [CodeRabbit](https://coderabbit.ai) - AI code review for GitHub and GitLab PRs. Free for open-source repos.
+- [Qodana](https://jetbrains.com/qodana) - AI code quality and review tool by JetBrains. Free for open-source.
+- [SonarQube](https://sonarsource.com/products/sonarqube) - AI code review and static analysis. Free community edition available.
+- [Codacy](https://codacy.com) - Automated AI code review and quality analysis. Free for open-source.
+
+### SQL & Database
+- [AI2SQL](https://ai2sql.io) - AI SQL query generator from plain English. Free plan with 5 queries/day.
+- [Text2SQL](https://text2sql.ai) - AI natural language to SQL converter. Free plan available.
+- [SQLAI](https://sqlai.ai) - AI SQL query generator and optimizer. Free plan available.
+- [Outerbase](https://outerbase.com) - AI database interface with SQL generation. Free plan available.
+
+### Testing
+- [CodiumAI](https://codium.ai) - AI unit test generator for Python, JS, and TypeScript. Free plan available.
+- [Diffblue Cover](https://diffblue.com) - AI unit test generator for Java. Free community edition available.
+- [Testim](https://testim.io) - AI test automation and unit test generator. Free plan available.
+
+### Documentation
+- [Mintlify](https://mintlify.com) - AI API documentation generator and hosting. Free plan available.
+- [Swimm](https://swimm.io) - AI code documentation tool integrated with GitHub. Free plan available.
+- [Stenography](https://stenography.dev) - AI documentation generator that auto-documents codebases. Free plan available.
+
+### Code Explanation
+- [Pieces](https://pieces.app) - AI code explainer and snippet manager with offline support. Free plan available.
+- [Blackbox AI](https://blackbox.ai) - AI code explainer and search tool for developers. Free plan available.
+- [Sourcegraph Cody](https://sourcegraph.com/cody) - AI code explainer with full codebase context. Free plan available.
+- [Phind](https://phind.com) - AI search and code explanation engine for developers. Free to use.
+
+### Utilities
+- [AutoRegex](https://autoregex.xyz) - AI regex generator from plain English descriptions. Free to use.
+- [Regex.ai](https://regex.ai) - AI-powered regex generator and tester. Free to use.
+- [Fig AI](https://fig.io) - AI terminal autocomplete and command generator. Free plan available.
 
 <!-- tools will be added here -->
 
 ## Productivity
 
-> AI tools for task management, note-taking, summarization, and workflow automation.
+> AI tools for meetings, PDF summarization, workflow automation, scheduling, and task management.
+
+### Meeting & Notes
+- [Otter.ai](https://otter.ai) - AI meeting transcription and summarizer. Free plan with 300 minutes/month.
+- [Fireflies.ai](https://fireflies.ai) - AI meeting recorder, transcriber, and summarizer. Free plan available.
+- [Fathom](https://fathom.video) - AI meeting summarizer with unlimited summaries on free plan.
+- [Tactiq](https://tactiq.io) - AI meeting summarizer for Google Meet, Zoom, and Teams. Free plan available.
+- [Notion AI](https://notion.so/product/ai) - AI note-taking assistant built into Notion. Free trial available.
+- [Mem](https://mem.ai) - AI note-taking app that automatically organizes and surfaces relevant notes.
+- [Reflect](https://reflect.app) - AI note-taking app with networked notes and AI assistant. Free trial available.
+
+### PDF & Document
+- [ChatPDF](https://chatpdf.com) - AI PDF summarizer and chat interface. Free plan with 2 PDFs/day.
+- [PDF.ai](https://pdf.ai) - AI PDF summarizer and question answering tool. Free plan available.
+- [Humata](https://humata.ai) - AI document summarizer for PDFs and research papers. Free plan available.
+- [Unriddle](https://unriddle.ai) - AI PDF summarizer with integrated note-taking. Free plan available.
+- [Scholarcy](https://scholarcy.com) - AI research paper and document summarizer. Free plan available.
+
+### Workflow Automation
+- [Zapier AI](https://zapier.com) - AI workflow automation connecting 6000+ apps. Free plan available.
+- [Make](https://make.com) - Visual AI workflow automation platform. Free plan with 1000 ops/month.
+- [n8n](https://n8n.io) - Open-source AI workflow automation tool. Free, self-hostable.
+- [Bardeen](https://bardeen.ai) - AI automation for repetitive browser tasks. Free plan available.
+- [Activepieces](https://activepieces.com) - Open-source AI workflow automation platform. Free, self-hostable.
+
+### Calendar & Scheduling
+- [Reclaim.ai](https://reclaim.ai) - AI calendar assistant that auto-schedules tasks and meetings. Free plan available.
+- [Motion](https://usemotion.com) - AI calendar and task scheduler that auto-plans your day. Free trial available.
+- [Clockwise](https://getclockwise.com) - AI calendar optimizer that protects focus time. Free plan available.
+- [Cal.ai](https://cal.com/ai) - AI scheduling assistant by Cal.com. Free plan available.
+
+### Task Management
+- [Todoist AI](https://todoist.com) - AI task manager with natural language input. Free plan available.
+- [ClickUp AI](https://clickup.com) - AI project and task management platform. Free plan available.
+- [Taskade](https://taskade.com) - AI task manager with built-in AI agents. Free plan available.
+- [Height](https://height.app) - AI project management with automated task updates. Free plan available.
+
+### Inbox & Email Management
+- [Shortwave](https://shortwave.com) - AI email client with smart summaries and suggested replies. Free plan available.
+- [SaneBox](https://sanebox.com) - AI email inbox organizer that filters unimportant emails. Free trial available.
+- [Superhuman](https://superhuman.com) - AI email client with inbox triage and smart replies. Free trial available.
+- [Trimbox](https://trimbox.io) - AI email unsubscribe and inbox cleaner. Free plan available.
+
+### Time Tracking
+- [Toggl Track](https://toggl.com/track) - AI-assisted time tracking with automatic suggestions. Free plan available.
+- [Timely](https://timelyapp.com) - AI time tracking that automatically logs work hours. Free trial available.
+- [Rize](https://rize.io) - AI time tracker that categorizes work and improves focus. Free trial available.
+- [Memtime](https://memtime.com) - AI automatic time tracking from app and browser activity. Free trial available.
 
 <!-- tools will be added here -->
 
 ## Marketing & SEO
 
-> AI tools for SEO, social media, ads, email marketing, and growth.
+> AI tools for SEO, social media, ad copy, landing pages, content repurposing, and competitor analysis.
+
+### SEO Tools
+- [Surfer SEO](https://surferseo.com) - AI SEO content optimizer with real-time scoring. Free trial available.
+- [Semrush AI](https://semrush.com) - AI SEO platform with keyword research and competitor analysis. Free plan available.
+- [Ahrefs](https://ahrefs.com) - AI-powered SEO toolset for keywords, backlinks, and rank tracking. Free plan available.
+- [Frase](https://frase.io) - AI SEO content brief and optimization tool. Free trial available.
+- [NeuronWriter](https://neuronwriter.com) - AI SEO optimizer with NLP-based recommendations. Free trial available.
+- [Rankmath AI](https://rankmath.com) - AI SEO plugin for WordPress with content scoring. Free plan available.
+- [Keyword Insights](https://keywordinsights.ai) - AI keyword research and clustering tool. Free trial available.
+
+### Social Media
+- [Buffer AI](https://buffer.com) - AI social media post generator and scheduler. Free plan with 3 channels.
+- [Flick](https://flick.social) - AI social media post generator and hashtag research tool. Free trial available.
+- [Predis.ai](https://predis.ai) - AI social media post and video generator. Free plan available.
+- [Lately AI](https://lately.ai) - AI social media content generator from long-form content. Free trial available.
+- [Hashtagify](https://hashtagify.me) - AI hashtag generator and analytics tool. Free plan available.
+- [All Hashtag](https://all-hashtag.com) - Free AI hashtag generator, no account required.
+
+### Ad Copy
+- [AdCreative.ai](https://adcreative.ai) - AI ad copy and creative generator for Google and Facebook. Free trial available.
+- [Pencil](https://trypencil.com) - AI ad copy generator with performance prediction. Free trial available.
+- [Copysmith](https://copysmith.ai) - AI ad copy and product description generator. Free trial available.
+- [Writesonic Ads](https://writesonic.com) - AI Google and Facebook ad copy generator. Free plan available.
+
+### Landing Pages
+- [Framer AI](https://framer.com) - AI website and landing page generator from text prompts. Free plan available.
+- [Durable](https://durable.co) - AI landing page and website generator in 30 seconds. Free plan available.
+- [Unbounce AI](https://unbounce.com) - AI landing page builder with Smart Copy. Free trial available.
+- [Sitekick](https://sitekick.ai) - AI landing page generator with one-click creation. Free plan available.
+
+### Content Repurposing
+- [Repurpose.io](https://repurpose.io) - AI content repurposing for podcasts, videos, and blogs. Free trial available.
+- [Munch](https://getmunch.com) - AI video repurposing tool that clips long videos into social posts. Free plan available.
+- [Castmagic](https://castmagic.io) - AI podcast and video repurposing tool. Free trial available.
+- [Vidyo.ai](https://vidyo.ai) - AI video repurposing tool for short-form social content. Free plan available.
+- [Taplio](https://taplio.com) - AI LinkedIn content repurposing and scheduling tool. Free trial available.
+
+### Competitor Analysis
+- [Similarweb AI](https://similarweb.com) - AI competitor traffic and audience analysis. Free plan available.
+- [SpyFu](https://spyfu.com) - AI competitor keyword and ad research tool. Free plan available.
+- [Crayon](https://crayon.co) - AI competitive intelligence and market monitoring. Free trial available.
+- [Kompyte](https://kompyte.com) - AI competitor tracking and battle card generator. Free trial available.
+
+### YouTube & Video SEO
+- [TubeBuddy AI](https://tubebuddy.com) - AI YouTube SEO, description, and tag generator. Free plan available.
+- [VidIQ AI](https://vidiq.com) - AI YouTube keyword research and description generator. Free plan available.
+- [Rapidtags](https://rapidtags.io) - Free AI YouTube tag and description generator, no account required.
 
 <!-- tools will be added here -->
 
 ## Data & Analytics
 
-> AI tools for data analysis, visualization, business intelligence, and insights.
+> AI tools for data analysis, chart generation, spreadsheets, dashboards, and reporting.
+
+### Data Analysis
+- [Julius AI](https://julius.ai) - AI data analysis tool that analyzes CSV and Excel files via chat. Free plan available.
+- [ChatCSV](https://chatcsv.co) - AI CSV analyzer that answers questions about your data. Free plan available.
+- [Rows AI](https://rows.com) - AI spreadsheet with built-in data analysis and visualization. Free plan available.
+- [Akkio](https://akkio.com) - AI data analysis and prediction platform. Free trial available.
+- [Obviously AI](https://obviously.ai) - AI data analysis and prediction, no code required. Free trial available.
+
+### Charts & Visualization
+- [Datawrapper](https://datawrapper.de) - AI-assisted chart and data visualization generator. Free plan available.
+- [Flourish](https://flourish.studio) - AI data visualization and chart generator. Free plan available.
+- [ChartGPT](https://chartgpt.dev) - AI chart generator from plain English descriptions. Free to use.
+- [Infogram](https://infogram.com) - AI infographic and chart generator. Free plan available.
+- [RAWGraphs](https://rawgraphs.io) - Open-source AI data visualization tool. Free to use.
+
+### Spreadsheets
+- [Excel Formula Bot](https://excelformulabot.com) - AI Excel and Google Sheets formula generator. Free plan available.
+- [Formula Generator](https://formulagenerator.app) - Free AI Excel formula generator, no account required.
+- [Ajelix](https://ajelix.com) - AI Excel formula generator and spreadsheet assistant. Free plan available.
+- [Sheet+](https://sheetplus.ai) - AI Google Sheets and Excel formula generator. Free plan available.
+- [Numerous.ai](https://numerous.ai) - AI spreadsheet tool with GPT-powered formulas. Free plan available.
+- [Grid](https://grid.is) - AI spreadsheet and data story tool. Free plan available.
+
+### Dashboards & BI
+- [Looker Studio](https://lookerstudio.google.com) - Free AI dashboard builder and BI tool by Google.
+- [Power BI](https://powerbi.microsoft.com) - AI business intelligence and dashboard builder by Microsoft. Free plan available.
+- [Metabase](https://metabase.com) - Open-source AI business intelligence and dashboard tool. Free, self-hostable.
+- [Polymer](https://polymersearch.com) - AI BI and dashboard builder from spreadsheets. Free plan available.
+- [Equals](https://equals.com) - AI spreadsheet and BI tool with live data connections. Free plan available.
+
+### Reports
+- [Gamma](https://gamma.app) - AI report and presentation generator from text. Free plan available.
+- [Tome](https://tome.app) - AI report and narrative generator. Free plan available.
+- [Databox](https://databox.com) - AI automated report generator for marketing data. Free plan available.
+- [Beautiful.ai](https://beautiful.ai) - AI report and presentation generator. Free trial available.
+- [Visme Reports](https://visme.co) - AI report generator with data visualization. Free plan available.
 
 <!-- tools will be added here -->
 
 ## Education & Learning
 
-> AI tools for tutoring, language learning, course creation, and knowledge management.
+> AI tools for homework help, math solving, flashcards, quizzes, language learning, and course creation.
+
+### Homework & Tutoring
+- [Khanmigo](https://khanacademy.org/khanmigo) - AI tutoring assistant by Khan Academy. Free for students.
+- [Socratic](https://socratic.org) - AI homework helper by Google. Free, covers all subjects.
+- [Tutor AI](https://tutorai.me) - AI tutoring tool that teaches any subject interactively. Free plan available.
+- [Quizlet AI](https://quizlet.com) - AI homework helper and study tool with 500M+ study sets. Free plan available.
+- [Numerade](https://numerade.com) - AI homework helper for STEM with video solutions. Free plan available.
+
+### Math
+- [Photomath](https://photomath.net) - AI math solver that solves problems by scanning photos. Free plan available.
+- [Mathway](https://mathway.com) - AI math solver covering algebra, calculus, and statistics. Free plan available.
+- [Symbolab](https://symbolab.com) - AI math solver with step-by-step solutions. Free plan available.
+- [Wolfram Alpha](https://wolframalpha.com) - AI computational math solver covering all domains. Free plan available.
+- [Microsoft Math Solver](https://math.microsoft.com) - Free AI math solver, no account required.
+- [GeoGebra AI](https://geogebra.org) - Free open-source AI math and geometry solver.
+
+### Flashcards & Quizzes
+- [Anki](https://apps.ankiweb.net) - Open-source AI flashcard generator with spaced repetition. Free to use.
+- [Knowt](https://knowt.com) - AI flashcard and quiz generator from notes and PDFs. Free plan available.
+- [Quizizz AI](https://quizizz.com) - AI quiz generator for teachers and students. Free plan available.
+- [Formative AI](https://goformative.com) - AI quiz and assessment generator for classrooms. Free plan available.
+- [Opexams](https://opexams.com) - AI quiz generator from any topic or document. Free plan available.
+
+### Summarization
+- [TLDR This](https://tldrthis.com) - AI article summarizer that condenses any web page. Free plan available.
+- [Resoomer](https://resoomer.com) - Free AI article summarizer, no account required.
+- [Summarize Tech](https://summarize.tech) - AI article and YouTube video summarizer. Free to use.
+- [Scholarcy](https://scholarcy.com) - AI research paper summarizer with flashcard generation. Free plan available.
+- [Explainpaper](https://explainpaper.com) - AI research paper summarizer that explains complex concepts. Free to use.
+- [Upword](https://upword.ai) - AI article summarizer with note-taking. Free plan available.
+
+### Study Planning & Notes
+- [MyStudyLife](https://mystudylife.com) - AI study planner with timetable and task management. Free to use.
+- [Structured](https://structured.app) - AI study planner and daily schedule organizer. Free plan available.
+- [Otter.ai](https://otter.ai) - AI lecture notes tool with real-time transcription. Free plan available.
+- [Notta](https://notta.ai) - AI lecture recorder and notes generator. Free plan available.
+
+### Language Learning
+- [Duolingo](https://duolingo.com) - AI-powered language learning app with gamification. Free plan available.
+- [Speak](https://speak.com) - AI language tutor with real-time speaking practice. Free trial available.
+- [Langotalk](https://langotalk.org) - AI language conversation partner. Free plan available.
+- [Elsa Speak](https://elsaspeak.com) - AI English pronunciation and speaking coach. Free plan available.
+
+### Course Creation
+- [Coursebox](https://coursebox.ai) - AI course generator from any content or topic. Free plan available.
+- [Synthesia](https://synthesia.io) - AI course creation with avatar video presenters. Free plan available.
+- [Teachable AI](https://teachable.com) - AI online course creator and hosting platform. Free plan available.
 
 <!-- tools will be added here -->
 
 ## Business & Finance
 
-> AI tools for finance, legal, HR, CRM, and business operations.
+> AI tools for business planning, contracts, invoicing, pitch decks, HR, customer support, and CRM.
+
+### Business Planning
+- [Plannr](https://plannr.ai) - AI business plan generator from a short brief. Free plan available.
+- [IdeaBuddy](https://ideabuddy.com) - AI business plan and idea validation tool. Free plan available.
+- [Upmetrics](https://upmetrics.co) - AI business plan generator with financial forecasting. Free trial available.
+- [Bizplan](https://bizplan.com) - AI business plan generator with financial projections. Free trial available.
+- [Proposal Genie](https://proposalgenie.ai) - AI business proposal and plan generator. Free plan available.
+
+### Legal & Contracts
+- [Spellbook](https://spellbook.legal) - AI contract review and drafting tool. Free trial available.
+- [Klarity](https://klaritylaw.com) - AI contract review tool that flags risky clauses. Free trial available.
+- [Contractbook AI](https://contractbook.com) - AI contract management and review platform. Free plan available.
+- [DoNotPay](https://donotpay.com) - AI legal assistant for contracts and consumer rights. Free plan available.
+- [LawGeex](https://lawgeex.com) - AI contract review and approval automation. Free trial available.
+
+### Finance & Invoicing
+- [Wave AI](https://waveapps.com) - Free AI invoice generator and accounting tool. No account fees.
+- [Zoho Invoice AI](https://zoho.com/invoice) - Free AI invoice generator with payment tracking.
+- [Invoice Ninja AI](https://invoiceninja.com) - Free open-source AI invoice generator. Self-hostable.
+- [Finta](https://trustfinta.com) - AI financial analysis and fundraising tool for startups. Free plan available.
+
+### Pitch & Presentations
+- [Gamma](https://gamma.app) - AI pitch deck and presentation generator from text. Free plan available.
+- [Tome](https://tome.app) - AI pitch deck and narrative generator. Free plan available.
+- [Pitch](https://pitch.com) - AI-assisted pitch deck builder with collaboration. Free plan available.
+- [SlidesAI](https://slidesai.io) - AI pitch deck generator for Google Slides. Free plan available.
+- [Decktopus](https://decktopus.com) - AI pitch deck generator with content suggestions. Free plan available.
+- [Beautiful.ai](https://beautiful.ai) - AI pitch deck generator with smart templates. Free trial available.
+
+### HR & Recruiting
+- [Manatal](https://manatal.com) - AI recruiting and applicant tracking system. Free trial available.
+- [Workable AI](https://workable.com) - AI recruiting and HR tool with candidate screening. Free trial available.
+- [Leena AI](https://leena.ai) - AI HR tool for employee onboarding and support. Free trial available.
+- [Fetcher](https://fetcher.ai) - AI candidate sourcing and recruiting tool. Free trial available.
+
+### Customer Support
+- [Tidio AI](https://tidio.com) - AI customer support chatbot and live chat. Free plan available.
+- [Crisp AI](https://crisp.chat) - AI customer support and chatbot platform. Free plan with 2 agents.
+- [Freshdesk AI](https://freshdesk.com) - AI customer support with auto-reply and ticketing. Free plan available.
+- [Botpress](https://botpress.com) - Open-source AI chatbot builder. Free, self-hostable.
+- [Voiceflow](https://voiceflow.com) - AI chatbot and agent builder for customer support. Free plan available.
+
+### CRM & Sales
+- [HubSpot AI](https://hubspot.com) - AI CRM and sales platform with generous free plan.
+- [Folk AI](https://folk.app) - AI CRM for startups and small teams. Free plan available.
+- [Clay](https://clay.com) - AI CRM and sales prospecting tool. Free plan available.
+- [Attio](https://attio.com) - AI CRM with automation and enrichment. Free plan available.
+- [Pipedrive AI](https://pipedrive.com) - AI sales CRM with deal prediction. Free trial available.
 
 <!-- tools will be added here -->
 
 ## Research & Search
 
-> AI tools for research, search, fact-checking, and knowledge discovery.
+> AI tools for academic research, paper summarization, citation generation, fact checking, and web scraping.
+
+### AI Search Engines
+- [Perplexity AI](https://perplexity.ai) - AI search engine with cited real-time answers. Free plan available.
+- [You.com](https://you.com) - AI search engine with customizable results and chat. Free to use.
+- [Phind](https://phind.com) - AI search engine optimized for developers. Free to use.
+- [Brave Search AI](https://search.brave.com) - AI-powered independent search engine with Summarizer. Free to use.
+- [Exa](https://exa.ai) - AI semantic search engine for researchers. Free plan available.
+
+### Academic Research
+- [Consensus](https://consensus.app) - AI research tool finding evidence from peer-reviewed papers. Free plan available.
+- [Elicit](https://elicit.com) - AI research assistant that automates literature reviews. Free plan available.
+- [Semantic Scholar](https://semanticscholar.org) - Free AI-powered academic research search engine.
+- [Research Rabbit](https://researchrabbit.ai) - Free AI tool for discovering and organizing academic papers.
+- [Connected Papers](https://connectedpapers.com) - AI tool that maps related academic papers visually. Free plan available.
+- [Litmaps](https://litmaps.com) - AI literature review and research mapping tool. Free plan available.
+
+### Paper Summarization
+- [Scholarcy](https://scholarcy.com) - AI paper summarizer that extracts key findings. Free plan available.
+- [Explainpaper](https://explainpaper.com) - AI paper summarizer that explains complex concepts. Free to use.
+- [SciSpace](https://typeset.io) - AI research paper summarizer and literature review tool. Free plan available.
+- [Paper Digest](https://paper-digest.com) - Free AI paper summarizer, no account required.
+- [Humata](https://humata.ai) - AI paper summarizer with question answering. Free plan available.
+
+### Citation & References
+- [ZoteroBib](https://zbib.org) - Free AI citation generator supporting 9000+ styles. No account required.
+- [MyBib](https://mybib.com) - Free AI citation generator, no signup required.
+- [Citation Machine](https://citationmachine.net) - AI citation generator for MLA, APA, and Chicago. Free plan available.
+- [Scribbr Citation](https://scribbr.com/citation-generator) - Free AI citation generator with plagiarism checker.
+- [Cite This For Me](https://citethisforme.com) - Free AI citation generator supporting all major formats.
+
+### Fact Checking
+- [Full Fact AI](https://fullfact.org) - Free AI fact checking tool for public claims and news.
+- [Ground News AI](https://ground.news) - AI news fact checker with bias detection. Free plan available.
+- [Factiverse](https://factiverse.ai) - AI fact checker for claims and articles. Free trial available.
+- [ClaimBuster](https://idir.uta.edu/claimbuster) - Free AI claim detection and fact checking tool.
+
+### Knowledge Base
+- [Outline](https://getoutline.com) - Open-source AI knowledge base and wiki. Free, self-hostable.
+- [Notion AI](https://notion.so/product/ai) - AI knowledge base with semantic search. Free trial available.
+- [Guru](https://getguru.com) - AI knowledge base and company wiki. Free plan available.
+- [Slite AI](https://slite.com) - AI knowledge base with smart search and Q&A. Free plan available.
+- [Coda AI](https://coda.io) - AI knowledge base and doc tool with automation. Free plan available.
+
+### Web Scraping
+- [Firecrawl](https://firecrawl.dev) - AI web scraping tool converting websites to clean markdown. Free plan available.
+- [Browse AI](https://browse.ai) - AI web scraping tool, no code required. Free plan available.
+- [Apify](https://apify.com) - AI web scraping and automation platform. Free plan available.
+- [Octoparse](https://octoparse.com) - AI web scraping with visual point-and-click interface. Free plan available.
+- [Crawlee](https://crawlee.dev) - Open-source AI web scraping library by Apify. Free to use.
+
+### Academic Writing
+- [Jenni AI](https://jenni.ai) - AI academic writing assistant with citation support. Free plan available.
+- [Paperpal](https://paperpal.com) - AI academic writing tool with grammar suggestions. Free plan available.
+- [Trinka](https://trinka.ai) - AI academic writing and grammar correction tool. Free plan available.
+- [Writefull](https://writefull.com) - AI academic writing feedback for papers and theses. Free plan available.
+- [Scite](https://scite.ai) - AI academic writing tool with smart citation analysis. Free plan available.
 
 <!-- tools will be added here -->
 
-## Other
+## 🗂️ Other — General Purpose & Discovery
 
-> AI tools that don't fit neatly into the above categories.
+### AI Tools Directory & Discovery
+- [Futurepedia](https://futurepedia.io) - The largest AI tools directory, updated daily with new tools and categories.
+- [There's An AI For That](https://theresanaiforthat.com) - Search AI tools by task; covers 10,000+ use cases.
+- [TopAI.tools](https://topai.tools) - Curated AI tool rankings with category filtering and user reviews.
+- [Supertools](https://supertools.therundown.ai) - Handpicked AI tools from The Rundown AI newsletter team.
+
+### AI Tools for Students (Free)
+- [Khanmigo](https://khanacademy.org) - Free AI tutor by Khan Academy; Socratic method-based learning assistant.
+- [Quizlet AI](https://quizlet.com) - AI-generated flashcards and practice tests for any subject.
+- [Explainpaper](https://explainpaper.com) - Upload academic papers and get AI-powered sentence-level explanations.
+- [Consensus](https://consensus.app) - AI-powered academic search engine that surfaces research consensus.
+- [Otter.ai](https://otter.ai) - AI transcription for lectures and study sessions; generous free tier.
+
+### AI Tools for Small Business
+- [Durable](https://durable.co) - AI website builder that generates a complete small business site in 30 seconds.
+- [Tidio](https://tidio.com) - AI chatbot + live chat for small business customer support; free plan available.
+- [Fireflies.ai](https://fireflies.ai) - AI meeting recorder, transcriber, and action item extractor.
+- [Zapier AI](https://zapier.com) - AI-powered automation connecting 6,000+ apps; essential for SMB workflows.
+- [Canva AI](https://canva.com) - All-in-one AI design platform with Magic Write, text-to-image, and brand kit.
+
+### AI Tools for Freelancers
+- [Bonsai](https://hellobonsai.com) - All-in-one AI platform for freelancer contracts, proposals, invoices, and CRM.
+- [HoneyBook AI](https://honeybook.com) - AI-assisted client management and project workflow for independents.
+- [Clockify](https://clockify.me) - Free AI time tracking and reporting; unlimited users on free plan.
+- [Moxie](https://withmoxie.com) - AI-native freelance business management platform built for solopreneurs.
+
+### AI Tools for Content Creators
+- [Opus Clip](https://opus.pro) - AI repurposing tool that converts long videos into viral short clips automatically.
+- [Castmagic](https://castmagic.io) - Turn podcast recordings into transcripts, show notes, and social content with AI.
+- [Predis.ai](https://predis.ai) - AI social media content generator with competitor analysis built in.
+- [Taplio](https://taplio.com) - AI-powered LinkedIn content creation, scheduling, and analytics tool.
+- [Beehiiv AI](https://beehiiv.com) - Newsletter platform with AI writing assistance and audience growth tools.
+
+### AI Productivity Tools 2026
+- [Reclaim AI](https://reclaim.ai) - AI calendar optimizer that automatically schedules tasks, habits, and focus time.
+- [Motion](https://usemotion.com) - AI project manager that builds your daily schedule from tasks and deadlines.
+- [Mem AI](https://mem.ai) - AI-powered knowledge base that automatically surfaces relevant notes and context.
+- [Taskade AI](https://taskade.com) - AI-driven task management, mind mapping, and team collaboration in one tool.
+- [Lindy AI](https://lindy.ai) - Personal AI automation agent for email triage, meeting prep, and task handling.
+
+### Open Source AI Tools
+- [Ollama](https://ollama.com) - Run Llama, Mistral, Gemma, and other LLMs locally with a single command. `#local` `#llm`
+- [LM Studio](https://lmstudio.ai) - Desktop GUI for discovering and running local LLMs; no coding required. `#local` `#llm`
+- [Open WebUI](https://openwebui.com) - Self-hosted ChatGPT-style UI compatible with Ollama and OpenAI API. `#local` `#ui`
+- [AnythingLLM](https://anythingllm.com) - Open-source local RAG and knowledge base tool; supports multi-user mode. `#rag` `#local`
+- [PrivateGPT](https://privategpt.es) - 100% local AI Q&A over your documents; no data leaves your machine. `#privacy` `#rag`
+- [LocalAI](https://localai.io) - OpenAI API-compatible local inference server supporting multiple model backends. `#api` `#local`
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - The most popular open-source UI for AI image generation. `#image` `#generative`
 
 <!-- tools will be added here -->
 
