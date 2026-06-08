@@ -34,6 +34,15 @@ Every entry must follow this exact format:
 - [Amazing Tool](https://tool.com) - The best and most revolutionary AI tool ever created!!
 ```
 
+## 🔗 Submit Your Tool & Get 2 Free Backlinks
+
+Submitting your tool is completely free. Once your PR is merged, you'll receive:
+
+- ✅ A dofollow backlink from this GitHub repository (github.com — DA 100)
+- ✅ A dofollow backlink from [aifindr.org](https://aifindr.org)
+
+To claim your backlinks, include your website URL in the PR description.
+
 ## How to Submit
 
 1. Fork this repository

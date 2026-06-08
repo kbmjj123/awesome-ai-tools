@@ -1,12 +1,26 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome AI tools across all categories.  
-> Maintained by [aifindr.org](https://aifindr.org) — Open-source AI tools directory.  
-> Submit your tool → [aifindr.org/submit](https://aifindr.org/submit)
+> A curated list of the best AI tools for makers, developers, and creators.
+> Open-source. Community-maintained. Updated regularly.
+
+🌐 Browse the full directory at [aifindr.org](https://aifindr.org)
+
+---
+
+## 🔗 Submit Your Tool & Get 3 Free Backlinks
+
+Submitting your AI tool is completely free. Once approved, you'll receive:
+
+- ✅ A dofollow backlink from this GitHub repository (github.com — DA 100)
+- ✅ A dofollow backlink from [aifindr.org](https://aifindr.org)
+- ✅ A dofollow backlink from your contributor profile page
+
+**How to submit:** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Contents
 
-- [Awesome AI Tools ](#awesome-ai-tools)
+- [Awesome AI Tools ](#awesome-ai-tools-)
+	- [🔗 Submit Your Tool \& Get 3 Free Backlinks](#-submit-your-tool--get-3-free-backlinks)
 	- [Contents](#contents)
 	- [Image \& Design](#image--design)
 		- [Image Generation](#image-generation)
@@ -23,6 +37,12 @@
 		- [Email Writing](#email-writing)
 		- [Product Descriptions](#product-descriptions)
 	- [Video \& Animation](#video--animation)
+		- [Video Generation](#video-generation)
+		- [Video Editing](#video-editing)
+		- [Video Enhancement](#video-enhancement)
+		- [Avatar \& Talking Head](#avatar--talking-head)
+		- [Subtitles \& Captions](#subtitles--captions)
+		- [Animation](#animation)
 	- [Audio \& Music](#audio--music)
 		- [Music Generation](#music-generation)
 		- [Text to Speech](#text-to-speech)
@@ -30,13 +50,63 @@
 		- [Transcription](#transcription)
 		- [Audio Enhancement](#audio-enhancement)
 	- [Code \& Developer](#code--developer)
+		- [AI Coding Assistants](#ai-coding-assistants)
+		- [Code Generation](#code-generation)
+		- [Code Review](#code-review)
+		- [SQL \& Database](#sql--database)
+		- [Testing](#testing)
+		- [Documentation](#documentation)
+		- [Code Explanation](#code-explanation)
+		- [Utilities](#utilities)
 	- [Productivity](#productivity)
+		- [Meeting \& Notes](#meeting--notes)
+		- [PDF \& Document](#pdf--document)
+		- [Workflow Automation](#workflow-automation)
+		- [Calendar \& Scheduling](#calendar--scheduling)
+		- [Task Management](#task-management)
+		- [Inbox \& Email Management](#inbox--email-management)
+		- [Time Tracking](#time-tracking)
 	- [Marketing \& SEO](#marketing--seo)
+		- [SEO Tools](#seo-tools)
+		- [Social Media](#social-media)
+		- [Ad Copy](#ad-copy)
+		- [Landing Pages](#landing-pages)
+		- [Content Repurposing](#content-repurposing)
+		- [Competitor Analysis](#competitor-analysis)
+		- [YouTube \& Video SEO](#youtube--video-seo)
 	- [Data \& Analytics](#data--analytics)
+		- [Data Analysis](#data-analysis)
+		- [Charts \& Visualization](#charts--visualization)
+		- [Spreadsheets](#spreadsheets)
+		- [Dashboards \& BI](#dashboards--bi)
+		- [Reports](#reports)
 	- [Education \& Learning](#education--learning)
+		- [Homework \& Tutoring](#homework--tutoring)
+		- [Math](#math)
+		- [Flashcards \& Quizzes](#flashcards--quizzes)
+		- [Summarization](#summarization)
+		- [Study Planning \& Notes](#study-planning--notes)
+		- [Language Learning](#language-learning)
+		- [Course Creation](#course-creation)
 	- [Business \& Finance](#business--finance)
+		- [Business Planning](#business-planning)
+		- [Legal \& Contracts](#legal--contracts)
+		- [Finance \& Invoicing](#finance--invoicing)
+		- [Pitch \& Presentations](#pitch--presentations)
+		- [HR \& Recruiting](#hr--recruiting)
+		- [Customer Support](#customer-support)
+		- [CRM \& Sales](#crm--sales)
 	- [Research \& Search](#research--search)
-	- [Other](#other)
+		- [AI Search Engines](#ai-search-engines)
+		- [Academic Research](#academic-research)
+		- [Paper Summarization](#paper-summarization)
+		- [Citation \& References](#citation--references)
+		- [Fact Checking](#fact-checking)
+		- [Knowledge Base](#knowledge-base)
+		- [Web Scraping](#web-scraping)
+		- [Academic Writing](#academic-writing)
+	- [🗂️ Other — General Purpose \& Discovery](#️-other--general-purpose--discovery)
+		- [Open Source AI Tools](#open-source-ai-tools)
 	- [Directories \& Resources](#directories--resources)
 	- [Contributing](#contributing)
 
@@ -580,46 +650,6 @@
 <!-- tools will be added here -->
 
 ## 🗂️ Other — General Purpose & Discovery
-
-### AI Tools Directory & Discovery
-- [Futurepedia](https://futurepedia.io) - The largest AI tools directory, updated daily with new tools and categories.
-- [There's An AI For That](https://theresanaiforthat.com) - Search AI tools by task; covers 10,000+ use cases.
-- [TopAI.tools](https://topai.tools) - Curated AI tool rankings with category filtering and user reviews.
-- [Supertools](https://supertools.therundown.ai) - Handpicked AI tools from The Rundown AI newsletter team.
-
-### AI Tools for Students (Free)
-- [Khanmigo](https://khanacademy.org) - Free AI tutor by Khan Academy; Socratic method-based learning assistant.
-- [Quizlet AI](https://quizlet.com) - AI-generated flashcards and practice tests for any subject.
-- [Explainpaper](https://explainpaper.com) - Upload academic papers and get AI-powered sentence-level explanations.
-- [Consensus](https://consensus.app) - AI-powered academic search engine that surfaces research consensus.
-- [Otter.ai](https://otter.ai) - AI transcription for lectures and study sessions; generous free tier.
-
-### AI Tools for Small Business
-- [Durable](https://durable.co) - AI website builder that generates a complete small business site in 30 seconds.
-- [Tidio](https://tidio.com) - AI chatbot + live chat for small business customer support; free plan available.
-- [Fireflies.ai](https://fireflies.ai) - AI meeting recorder, transcriber, and action item extractor.
-- [Zapier AI](https://zapier.com) - AI-powered automation connecting 6,000+ apps; essential for SMB workflows.
-- [Canva AI](https://canva.com) - All-in-one AI design platform with Magic Write, text-to-image, and brand kit.
-
-### AI Tools for Freelancers
-- [Bonsai](https://hellobonsai.com) - All-in-one AI platform for freelancer contracts, proposals, invoices, and CRM.
-- [HoneyBook AI](https://honeybook.com) - AI-assisted client management and project workflow for independents.
-- [Clockify](https://clockify.me) - Free AI time tracking and reporting; unlimited users on free plan.
-- [Moxie](https://withmoxie.com) - AI-native freelance business management platform built for solopreneurs.
-
-### AI Tools for Content Creators
-- [Opus Clip](https://opus.pro) - AI repurposing tool that converts long videos into viral short clips automatically.
-- [Castmagic](https://castmagic.io) - Turn podcast recordings into transcripts, show notes, and social content with AI.
-- [Predis.ai](https://predis.ai) - AI social media content generator with competitor analysis built in.
-- [Taplio](https://taplio.com) - AI-powered LinkedIn content creation, scheduling, and analytics tool.
-- [Beehiiv AI](https://beehiiv.com) - Newsletter platform with AI writing assistance and audience growth tools.
-
-### AI Productivity Tools 2026
-- [Reclaim AI](https://reclaim.ai) - AI calendar optimizer that automatically schedules tasks, habits, and focus time.
-- [Motion](https://usemotion.com) - AI project manager that builds your daily schedule from tasks and deadlines.
-- [Mem AI](https://mem.ai) - AI-powered knowledge base that automatically surfaces relevant notes and context.
-- [Taskade AI](https://taskade.com) - AI-driven task management, mind mapping, and team collaboration in one tool.
-- [Lindy AI](https://lindy.ai) - Personal AI automation agent for email triage, meeting prep, and task handling.
 
 ### Open Source AI Tools
 - [Ollama](https://ollama.com) - Run Llama, Mistral, Gemma, and other LLMs locally with a single command. `#local` `#llm`
