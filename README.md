@@ -207,6 +207,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Runway](https://runwayml.com) - AI text to video and image to video generator. Free plan with 125 credits.
 - [Kling AI](https://klingai.com) - AI text to video generator by Kuaishou. Free plan with daily credits.
 - [Hailuo AI](https://hailuoai.com) - AI video generator with realistic motion. Free plan available.
+- [ImagineClip](https://imagineclip.com) - AI video generator for social clips, avatars, and stylized effects.
 - [Pika](https://pika.art) - AI text to video and image to video generator. Free plan available.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI video generator producing smooth realistic videos. Free plan available.
 - [Invideo AI](https://invideo.ai) - AI video generator from text scripts. Free plan available.
