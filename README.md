@@ -123,6 +123,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Leonardo.ai](https://leonardo.ai) - AI art generator with fine-tuned models and free daily credits.
 - [Playground AI](https://playgroundai.com) - Free AI image generator with 500 images/day on free plan.
 - [Craiyon](https://craiyon.com) - Completely free AI image generator, no account required.
+- [Seedream AI Studio](https://seedream4.video) - Multi-model AI image generation by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena. Supports up to 10 reference images. Free tier available.
 
 ### Image Upscaling & Enhancement
 - [Upscayl](https://upscayl.org) - Free open-source AI upscaler, runs locally. No watermark, no upload limits. Supports 4x/8x via Real-ESRGAN.
