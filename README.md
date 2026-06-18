@@ -295,6 +295,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 
 ### Code Generation
 - [Replit AI](https://replit.com) - AI code generator with built-in browser IDE. Free plan available.
+- [Roblox GUI Maker](https://robloxguimaker.dev) - AI planner for Roblox Studio ScreenGui layouts and Lua UI starter code.
 - [DeepSeek Coder](https://deepseek.com) - Open-source AI coding model with strong benchmark scores. Free to use.
 - [Qwen Coder](https://qwenlm.github.io) - Open-source AI code generation model by Alibaba. Free to use.
 
