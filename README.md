@@ -125,6 +125,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Craiyon](https://craiyon.com) - Completely free AI image generator, no account required.
 
 ### Image Upscaling & Enhancement
+- [HairWow](https://www.gohairwow.com) - AI hairstyle try-on for haircuts, colors, and beards.
 - [Upscayl](https://upscayl.org) - Free open-source AI upscaler, runs locally. No watermark, no upload limits. Supports 4x/8x via Real-ESRGAN.
 - [Upscale.media](https://upscale.media) - Online AI image upscaler, free tier, no signup required for basic use.
 - [Let's Enhance](https://letsenhance.io) - AI photo enhancer and upscaler. Improves quality and resolution in one click.
