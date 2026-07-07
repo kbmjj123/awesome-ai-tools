@@ -328,8 +328,9 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 
 ### Utilities
 - [AutoRegex](https://autoregex.xyz) - AI regex generator from plain English descriptions. Free to use.
-- [Regex.ai](https://regex.ai) - AI-powered regex generator and tester. Free to use.
 - [Fig AI](https://fig.io) - AI terminal autocomplete and command generator. Free plan available.
+- [Regex.ai](https://regex.ai) - AI-powered regex generator and tester. Free to use.
+- [Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/) - Local-first memory lifecycle framework for AI agents.
 
 <!-- tools will be added here -->
 
