@@ -211,6 +211,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Pika](https://pika.art) - AI text to video and image to video generator. Free plan available.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - AI video generator producing smooth realistic videos. Free plan available.
 - [Invideo AI](https://invideo.ai) - AI video generator from text scripts. Free plan available.
+- [Podframes](https://github.com/Jellypod-Inc/podframes) - Open-source studio and CLI for generating two-host AI podcast videos. Free, runs locally.
 
 ### Video Editing
 - [Descript](https://descript.com) - AI video editor that edits video by editing text. Free plan available.
