@@ -230,6 +230,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [D-ID](https://d-id.com) - AI avatar and talking head video generator. Free plan with 5 videos/month.
 - [Colossyan](https://colossyan.com) - AI avatar video generator for workplace learning. Free trial available.
 - [Elai.io](https://elai.io) - AI video generator with custom avatars from photos. Free trial available.
+- [TalkPix.ai](https://www.talkpix.ai) - Pay-as-you-go AI tool for creating talking photo videos and e-commerce product ads.
 
 ### Subtitles & Captions
 - [Captions.ai](https://captions.ai) - AI subtitle generator for social media videos. Free plan available.
