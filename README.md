@@ -541,6 +541,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 ### Business Planning
 - [Plannr](https://plannr.ai) - AI business plan generator from a short brief. Free plan available.
 - [IdeaBuddy](https://ideabuddy.com) - AI business plan and idea validation tool. Free plan available.
+- [IdeaHunter](https://ideahunter.today) - AI startup idea research and validation tool for founders. Free plan available.
 - [Upmetrics](https://upmetrics.co) - AI business plan generator with financial forecasting. Free trial available.
 - [Bizplan](https://bizplan.com) - AI business plan generator with financial projections. Free trial available.
 - [Proposal Genie](https://proposalgenie.ai) - AI business proposal and plan generator. Free plan available.
