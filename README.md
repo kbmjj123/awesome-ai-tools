@@ -311,6 +311,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Outerbase](https://outerbase.com) - AI database interface with SQL generation. Free plan available.
 
 ### Testing
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA harness for natural-language web and mobile tests.
 - [CodiumAI](https://codium.ai) - AI unit test generator for Python, JS, and TypeScript. Free plan available.
 - [Diffblue Cover](https://diffblue.com) - AI unit test generator for Java. Free community edition available.
 - [Testim](https://testim.io) - AI test automation and unit test generator. Free plan available.
