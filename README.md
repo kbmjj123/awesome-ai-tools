@@ -218,6 +218,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Veed.io](https://veed.io) - AI video editor with subtitles, translation, and screen recording. Free plan available.
 - [OpusClip](https://opus.pro) - AI tool that clips long videos into viral shorts automatically. Free plan available.
 - [Submagic](https://submagic.co) - AI video editor for short-form content and auto-captions. Free plan available.
+- [videos.social](https://videos.social/?utm_source=kbmjj123-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blog posts, PDFs, and prompts into editable faceless videos.
 
 ### Video Enhancement
 - [Topaz Video AI](https://topazlabs.com/video-ai) - AI video enhancer and upscaler supporting up to 8K output.
