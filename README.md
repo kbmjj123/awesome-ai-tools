@@ -383,6 +383,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Timely](https://timelyapp.com) - AI time tracking that automatically logs work hours. Free trial available.
 - [Rize](https://rize.io) - AI time tracker that categorizes work and improves focus. Free trial available.
 - [Memtime](https://memtime.com) - AI automatic time tracking from app and browser activity. Free trial available.
+- [NEDIO](https://nedio.xyz/) - AI focus sprints and AI workflow reviews for developers. Free plan available.
 
 <!-- tools will be added here -->
 
