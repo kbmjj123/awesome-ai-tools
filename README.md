@@ -160,6 +160,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [ChatGPT](https://chatgpt.com) - General-purpose AI writing assistant by OpenAI. Free plan available.
 - [Claude](https://claude.ai) - AI writing assistant by Anthropic. Strong at long-form and nuanced content. Free plan available.
 - [Gemini](https://gemini.google.com) - AI writing assistant by Google, integrated with Google Docs. Free to use.
+- [LinkedIn Translator](https://linkedintranslator.app) - Turns rough notes into LinkedIn posts and professional messages.
 - [Writesonic](https://writesonic.com) - AI content generator for blogs, ads, and social media. Free plan available.
 
 ### Essay & Long-form Writing
