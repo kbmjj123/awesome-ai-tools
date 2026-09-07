@@ -660,6 +660,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [PrivateGPT](https://privategpt.es) - 100% local AI Q&A over your documents; no data leaves your machine. `#privacy` `#rag`
 - [LocalAI](https://localai.io) - OpenAI API-compatible local inference server supporting multiple model backends. `#api` `#local`
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - The most popular open-source UI for AI image generation. `#image` `#generative`
+- [Yuan Doctor](https://www.yuandoctor.com) - Free browser-local clinical scores and pathways for licensed physicians.
 
 <!-- tools will be added here -->
 
