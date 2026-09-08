@@ -215,6 +215,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 ### Video Editing
 - [Descript](https://descript.com) - AI video editor that edits video by editing text. Free plan available.
 - [Kapwing](https://kapwing.com) - Online AI video editor with subtitles and auto-editing. Free plan available.
+- [LiveFaceSwap AI](https://livefaceswap.ai) - Reference-based live webcam transformations with desktop virtual-camera output.
 - [Veed.io](https://veed.io) - AI video editor with subtitles, translation, and screen recording. Free plan available.
 - [OpusClip](https://opus.pro) - AI tool that clips long videos into viral shorts automatically. Free plan available.
 - [Submagic](https://submagic.co) - AI video editor for short-form content and auto-captions. Free plan available.
