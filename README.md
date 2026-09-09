@@ -161,6 +161,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Claude](https://claude.ai) - AI writing assistant by Anthropic. Strong at long-form and nuanced content. Free plan available.
 - [Gemini](https://gemini.google.com) - AI writing assistant by Google, integrated with Google Docs. Free to use.
 - [Writesonic](https://writesonic.com) - AI content generator for blogs, ads, and social media. Free plan available.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker and AI resume builder with live candidate leaderboard. Free plan available.
 
 ### Essay & Long-form Writing
 - [Jenni AI](https://jenni.ai) - AI essay writer with citation support and plagiarism checker. Free plan available.
