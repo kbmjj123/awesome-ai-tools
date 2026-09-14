@@ -357,6 +357,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Zapier AI](https://zapier.com) - AI workflow automation connecting 6000+ apps. Free plan available.
 - [Make](https://make.com) - Visual AI workflow automation platform. Free plan with 1000 ops/month.
 - [n8n](https://n8n.io) - Open-source AI workflow automation tool. Free, self-hostable.
+- [Solgrok](https://lmajster.github.io/sgrok/) - 24/7 autonomous Solana creator-ops AI agent (open-source). Free.
 - [Bardeen](https://bardeen.ai) - AI automation for repetitive browser tasks. Free plan available.
 - [Activepieces](https://activepieces.com) - Open-source AI workflow automation platform. Free, self-hostable.
 
