@@ -220,9 +220,10 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Submagic](https://submagic.co) - AI video editor for short-form content and auto-captions. Free plan available.
 
 ### Video Enhancement
-- [Topaz Video AI](https://topazlabs.com/video-ai) - AI video enhancer and upscaler supporting up to 8K output.
 - [Clideo](https://clideo.com) - Online AI video enhancer with quality improvement tools. Free plan available.
+- [Compress Video](https://videotext.io/compress-video) - Free online video compressor with light, medium, and heavy settings.
 - [Pixop](https://pixop.com) - Cloud-based AI video enhancement platform. Pay-per-use pricing.
+- [Topaz Video AI](https://topazlabs.com/video-ai) - AI video enhancer and upscaler supporting up to 8K output.
 
 ### Avatar & Talking Head
 - [HeyGen](https://heygen.com) - AI avatar video generator with 100+ realistic avatars. Free plan available.
@@ -232,10 +233,14 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Elai.io](https://elai.io) - AI video generator with custom avatars from photos. Free trial available.
 
 ### Subtitles & Captions
+- [Burn Subtitles](https://videotext.io/burn-subtitles) - Hardcodes SRT/VTT captions into MP4 for social platforms.
 - [Captions.ai](https://captions.ai) - AI subtitle generator for social media videos. Free plan available.
-- [Whisper](https://github.com/openai/whisper) - Open-source AI subtitle generator by OpenAI. Free, runs locally.
+- [Fix Subtitles](https://videotext.io/fix-subtitles) - Auto-corrects overlapping timestamps and SRT/VTT formatting errors.
 - [Kapwing Subtitles](https://kapwing.com/subtitles) - Free AI subtitle generator, no signup required for basic use.
 - [Maestra](https://maestra.ai) - AI subtitle generator supporting 80+ languages. Free trial available.
+- [Translate Subtitles](https://videotext.io/translate-subtitles) - Translates SRT/VTT subtitles into 70+ languages preserving timestamps.
+- [Video to Subtitles](https://videotext.io/video-to-subtitles) - Generates timed SRT/VTT captions from uploaded video files.
+- [Whisper](https://github.com/openai/whisper) - Open-source AI subtitle generator by OpenAI. Free, runs locally.
 
 ### Animation
 - [Animaker](https://animaker.com) - AI animation video maker for explainer videos. Free plan available.
@@ -268,10 +273,13 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Open-source real-time voice cloning, runs locally for free.
 
 ### Transcription
-- [Whisper](https://github.com/openai/whisper) - Open-source AI speech recognition by OpenAI. Free, runs locally.
-- [Otter.ai](https://otter.ai) - AI meeting and podcast transcription. Free plan available.
 - [Descript](https://descript.com) - AI podcast transcription and audio editor combined.
+- [Guideline Format](https://videotext.io/guideline-format) - Formats transcripts to Rev, GoTranscript, and similar style guides.
+- [Otter.ai](https://otter.ai) - AI meeting and podcast transcription. Free plan available.
 - [Riverside](https://riverside.fm) - AI podcast recording and transcription platform. Free tier available.
+- [Video to Transcript](https://videotext.io/video-to-transcript) - Free AI video transcription with Whisper large-v3 and SRT export.
+- [Voice Recorder](https://videotext.io/voice-recorder) - In-browser voice-to-text recorder with privacy-first processing.
+- [Whisper](https://github.com/openai/whisper) - Open-source AI speech recognition by OpenAI. Free, runs locally.
 
 ### Audio Enhancement
 - [Adobe Podcast](https://podcast.adobe.com) - AI noise cancellation and voice enhancement. Free to use.
