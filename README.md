@@ -359,6 +359,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [n8n](https://n8n.io) - Open-source AI workflow automation tool. Free, self-hostable.
 - [Bardeen](https://bardeen.ai) - AI automation for repetitive browser tasks. Free plan available.
 - [Activepieces](https://activepieces.com) - Open-source AI workflow automation platform. Free, self-hostable.
+- [Aident Loadout](https://aident.ai) - Connect AI agents to 1,000+ apps via one MCP server.
 
 ### Calendar & Scheduling
 - [Reclaim.ai](https://reclaim.ai) - AI calendar assistant that auto-schedules tasks and meetings. Free plan available.
