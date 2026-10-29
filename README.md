@@ -117,6 +117,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 > AI tools for image generation, upscaling, background removal, logo creation, and illustration.
 
 ### Image Generation
+- [RSP Editor AI](https://rspeditor.app) - AI photo styling from uploaded images; one free image on signup.
 - [Stable Diffusion](https://stability.ai) - Open-source text to image AI, free and runs locally. No account required.
 - [Adobe Firefly](https://firefly.adobe.com) - AI image generator with commercial-safe training data. Free tier available.
 - [Ideogram](https://ideogram.ai) - AI image generator with accurate text rendering. Free plan available.
