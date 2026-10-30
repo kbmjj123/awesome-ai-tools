@@ -37,6 +37,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 		- [Email Writing](#email-writing)
 		- [Product Descriptions](#product-descriptions)
 	- [Video \& Animation](#video--animation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 		- [Video Generation](#video-generation)
 		- [Video Editing](#video-editing)
 		- [Video Enhancement](#video-enhancement)
