@@ -391,6 +391,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 > AI tools for SEO, social media, ad copy, landing pages, content repurposing, and competitor analysis.
 
 ### SEO Tools
+- [AgentSEO](https://www.agentseo.dev) - SEO API and MCP tools for keyword research, rank tracking, and AEO workflows.
 - [Surfer SEO](https://surferseo.com) - AI SEO content optimizer with real-time scoring. Free trial available.
 - [Semrush AI](https://semrush.com) - AI SEO platform with keyword research and competitor analysis. Free plan available.
 - [Ahrefs](https://ahrefs.com) - AI-powered SEO toolset for keywords, backlinks, and rank tracking. Free plan available.
