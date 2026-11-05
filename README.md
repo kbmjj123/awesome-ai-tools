@@ -354,6 +354,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Scholarcy](https://scholarcy.com) - AI research paper and document summarizer. Free plan available.
 
 ### Workflow Automation
+- [AUTOMATER.ai](https://automater.ai) - Tray app tracking AI coding agents: searchable sessions, waiting alerts, and usage across providers.
 - [Zapier AI](https://zapier.com) - AI workflow automation connecting 6000+ apps. Free plan available.
 - [Make](https://make.com) - Visual AI workflow automation platform. Free plan with 1000 ops/month.
 - [n8n](https://n8n.io) - Open-source AI workflow automation tool. Free, self-hostable.
