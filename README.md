@@ -597,6 +597,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [You.com](https://you.com) - AI search engine with customizable results and chat. Free to use.
 - [Phind](https://phind.com) - AI search engine optimized for developers. Free to use.
 - [Brave Search AI](https://search.brave.com) - AI-powered independent search engine with Summarizer. Free to use.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that seeks counter-evidence before conviction.
 - [Exa](https://exa.ai) - AI semantic search engine for researchers. Free plan available.
 
 ### Academic Research
