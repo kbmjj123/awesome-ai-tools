@@ -337,6 +337,9 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 
 > AI tools for meetings, PDF summarization, workflow automation, scheduling, and task management.
 
+### Canvas Workspaces
+- [Novastart](https://novastart.com) - Infinite canvas workspace for apps, shared canvases, and AI agents.
+
 ### Meeting & Notes
 - [Otter.ai](https://otter.ai) - AI meeting transcription and summarizer. Free plan with 300 minutes/month.
 - [Fireflies.ai](https://fireflies.ai) - AI meeting recorder, transcriber, and summarizer. Free plan available.
