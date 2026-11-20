@@ -563,6 +563,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Tome](https://tome.app) - AI pitch deck and narrative generator. Free plan available.
 - [Pitch](https://pitch.com) - AI-assisted pitch deck builder with collaboration. Free plan available.
 - [SlidesAI](https://slidesai.io) - AI pitch deck generator for Google Slides. Free plan available.
+- [DDScore](https://www.ddscore.ai) - Reviews private-company pitch decks against supporting documents and public sources before deeper diligence.
 - [Decktopus](https://decktopus.com) - AI pitch deck generator with content suggestions. Free plan available.
 - [Beautiful.ai](https://beautiful.ai) - AI pitch deck generator with smart templates. Free trial available.
 
