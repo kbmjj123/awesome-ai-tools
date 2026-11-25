@@ -495,6 +495,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 ### Math
 - [Photomath](https://photomath.net) - AI math solver that solves problems by scanning photos. Free plan available.
 - [Mathway](https://mathway.com) - AI math solver covering algebra, calculus, and statistics. Free plan available.
+- [ModuMath](https://math.hjinlabs.com) - Explains a chosen maths step and generates a related problem for independent practice.
 - [Symbolab](https://symbolab.com) - AI math solver with step-by-step solutions. Free plan available.
 - [Wolfram Alpha](https://wolframalpha.com) - AI computational math solver covering all domains. Free plan available.
 - [Microsoft Math Solver](https://math.microsoft.com) - Free AI math solver, no account required.
