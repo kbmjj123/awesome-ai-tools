@@ -250,6 +250,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 > AI tools for music generation, voice cloning, transcription, and audio editing.
 
 ### Music Generation
+- [Flow Music AI](https://flowmusicai.pro) - Generate vocal songs and instrumentals from text prompts or original lyrics.
 - [Suno](https://suno.ai) - AI song generator creating full vocal tracks from text prompts. Free tier available.
 - [Udio](https://udio.com) - AI music generator supporting multiple genres, free with no account required.
 - [Mubert](https://mubert.com) - Royalty-free AI background music generator. Free plan available.
