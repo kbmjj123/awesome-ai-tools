@@ -119,6 +119,7 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 ### Image Generation
 - [Stable Diffusion](https://stability.ai) - Open-source text to image AI, free and runs locally. No account required.
 - [Adobe Firefly](https://firefly.adobe.com) - AI image generator with commercial-safe training data. Free tier available.
+- [AIBanner](https://www.aibanner.ai) - Generate banner images from text prompts and optional reference images.
 - [Ideogram](https://ideogram.ai) - AI image generator with accurate text rendering. Free plan available.
 - [Leonardo.ai](https://leonardo.ai) - AI art generator with fine-tuned models and free daily credits.
 - [Playground AI](https://playgroundai.com) - Free AI image generator with 500 images/day on free plan.
